@@ -1,0 +1,25 @@
+{
+  "name": "node-new",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnyaS55/nodeNew.git"
+  },
+  "author": "Anna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnyaS55/nodeNew/issues"
+  },
+  "homepage": "https://github.com/AnyaS55/nodeNew#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0",
+    "prettier": "^3.3.2"
+  }
+}
